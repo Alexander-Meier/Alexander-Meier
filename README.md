@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Alexander-Meier
-- 📫 How to reach me ... alexander.meier@lomina.io
 
 
 <!---
